@@ -1,0 +1,47 @@
+.btn{
+    width: 150px;
+    height: 25px;
+    padding: 3px;
+    margin-right: 150px;
+}
+
+.input{
+    margin-right: 30px;;
+}
+
+.flex{
+    display: flex;
+}
+
+.item{
+    justify-content: space-between;
+    border: solid 2px red;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+
+.ul{
+    padding: 0;
+}
+
+
+.h3{
+    margin: 0;
+    font-size: 16px;
+}
+
+.p{
+    margin: 0;
+    padding-right: 35px;
+    font-size: 16px;
+}
+
+.span{
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+
+.borderDone{
+    border: solid 2px green;
+}
